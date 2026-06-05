@@ -59,10 +59,6 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 ### Development Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -114,8 +110,6 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 🎖️ **IBM iOS and Android Mobile App Developer Professional Certificate** (14-course specialization)  
 📜 **24+ Coursera Certifications** spanning:
 - Mobile Development (React Native, Flutter, iOS/Android)
-- Full-Stack Web Development (MERN stack, Django, Flask)
-- DevOps & Cloud (Docker, Kubernetes, OpenShift)
 - AI & Emerging Technologies (Generative AI, Python for AI)
 
 🎓 **Academic Excellence:** 82.92% Year 1 Average  
