@@ -117,16 +117,6 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghazlanmattar-code&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-</div>
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - 📱 Expanding my mobile development portfolio with cross-platform applications
