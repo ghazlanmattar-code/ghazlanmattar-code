@@ -74,55 +74,38 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 
 ## 🚀 Featured Projects
 
-### 🍰 Sweet Spot Dessert Shop Kiosk System
-**C# • Windows Forms • QR Integration • Usability Testing**
+### Sweet Spot Dessert Shop Touchscreen Kiosk System | C#, Windows Forms, QR Integration | Nov 2025
 
-A comprehensive self-service touchscreen ordering system with 24+ screens designed following ISO 9241 standards.
-- Implemented QR code authentication for loyalty cards and staff access
-- Conducted usability testing with 11 participants achieving positive satisfaction ratings
-- Performed Hierarchical Task Analysis (HTA) and SHERPA error analysis
-- Designed accessible interface following WCAG 2.1 guidelines
-
-**Technologies:** C#, Windows Forms, QR Code Integration, ISO 9241, WCAG 2.1
+•	Designed and developed comprehensive self-service ordering system with 24-25 touchscreen interface screens
+•	Implemented QR code-based loyalty card system and staff authentication for secure access control
+•	Performed Hierarchical Task Analysis mapping 9 main tasks and executed SHERPA error analysis identifying 13 potential error modes 
+•	Designed 11 high-fidelity prototype screens with error prevention strategies and accessible interface elements
+•	Conducted usability testing with 11 participants following ISO 9241 standards, achieving positive satisfaction ratings
 
 ---
 
-### 🍷 Wine Direct Shopping System
-**Java • Object-Oriented Programming • Collections**
+### Wine Direct Shopping System | Java, ArrayList Collections, OOP | 2025
 
-E-commerce platform for wine cooperative with complete basket management and payment processing.
-- Implemented shopping basket using ArrayList collections and OOP principles
-- Built wallet payment system with balance tracking and transactions
-- Developed discount calculation engine for bulk purchases
-- Applied method overloading and object interaction patterns
-
-**Technologies:** Java, ArrayList, OOP, BlueJ
+•	Developed online wine shopping system with complete basket management functionality using ArrayList collections
+•	Implemented wallet payment system with balance tracking and transaction processing
+•	Built discount calculation engine for bulk purchases applying object-oriented programming principles and method overloading
 
 ---
 
-### 🗄️ Database Design Portfolio
-**MySQL • ER Diagrams • Relational Schema Design**
+### CodeToCareer — Career Guidance Web App | HTML5, CSS3 | 2026
 
-Comprehensive database systems for GP practice and pharmacy management.
-- Designed Entity-Relationship diagrams for 9 entities using crow's foot notation
-- Created normalized relational schemas with complex relationships
-- Implemented consultation-drug tracking and prescription management
-- Built database structures in MySQL Workbench
-
-**Technologies:** MySQL, ER Modeling, Database Normalization, MySQL Workbench
+•	Built a multi-page static website for GCC students using semantic HTML5 and float-based CSS3 layouts
+•	Implemented a CSS-only responsive mobile navigation toggle without JavaScript
+•	Designed percentage-width fluid layouts with box-sizing for cross-device compatibility
 
 ---
 
-### 🎨 HCI Analysis & Usability Research
-**Human-Computer Interaction • ISO 9241 • SHERPA Analysis**
+### Tool Hire Shop System | Java, OOP, BlueJ | 2026
 
-In-depth usability study and interface design for touchscreen kiosk systems.
-- Conducted comprehensive design research applying Nielsen's heuristics and Norman's principles
-- Performed Hierarchical Task Analysis mapping 9 main user tasks
-- Executed Predictive Human Error Analysis identifying 13 potential error modes
-- Designed 11 high-fidelity prototype screens with error prevention strategies
+•	Developed a two-part shop management application in Java applying core OOP principles
+•	Implemented item cataloguing, hiring logic, and cost calculation using class hierarchies and encapsulation
+•	Built within strict academic constraints, demonstrating clean structured programming practices
 
-**Technologies:** Draw.io, Research Methodologies, Usability Testing, ISO Standards
 
 ---
 
@@ -157,7 +140,6 @@ In-depth usability study and interface design for touchscreen kiosk systems.
 ## 🎯 What I'm Currently Working On
 
 - 📱 Expanding my mobile development portfolio with cross-platform applications
-- 🌐 Building full-stack web applications using MERN stack
 - 🔍 Seeking software engineering internship opportunities
 - 📚 Continuously learning and earning industry certifications
 - 💡 Contributing to open-source projects
