@@ -76,11 +76,11 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 
 ### Sweet Spot Dessert Shop Touchscreen Kiosk System | C#, Windows Forms, QR Integration | Nov 2025
 
-•	Designed and developed comprehensive self-service ordering system with 24-25 touchscreen interface screens
-•	Implemented QR code-based loyalty card system and staff authentication for secure access control
-•	Performed Hierarchical Task Analysis mapping 9 main tasks and executed SHERPA error analysis identifying 13 potential error modes 
-•	Designed 11 high-fidelity prototype screens with error prevention strategies and accessible interface elements
-•	Conducted usability testing with 11 participants following ISO 9241 standards, achieving positive satisfaction ratings
+-	Designed and developed comprehensive self-service ordering system with 24-25 touchscreen interface screens
+-	Implemented QR code-based loyalty card system and staff authentication for secure access control
+-	Performed Hierarchical Task Analysis mapping 9 main tasks and executed SHERPA error analysis identifying 13 potential error modes 
+-	Designed 11 high-fidelity prototype screens with error prevention strategies and accessible interface elements
+-	Conducted usability testing with 11 participants following ISO 9241 standards, achieving positive satisfaction ratings
 
 ---
 
