@@ -86,25 +86,25 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 
 ### Wine Direct Shopping System | Java, ArrayList Collections, OOP | 2025
 
-•	Developed online wine shopping system with complete basket management functionality using ArrayList collections
-•	Implemented wallet payment system with balance tracking and transaction processing
-•	Built discount calculation engine for bulk purchases applying object-oriented programming principles and method overloading
+-	Developed online wine shopping system with complete basket management functionality using ArrayList collections
+-	Implemented wallet payment system with balance tracking and transaction processing
+-	Built discount calculation engine for bulk purchases applying object-oriented programming principles and method overloading
 
 ---
 
 ### CodeToCareer — Career Guidance Web App | HTML5, CSS3 | 2026
 
-•	Built a multi-page static website for GCC students using semantic HTML5 and float-based CSS3 layouts
-•	Implemented a CSS-only responsive mobile navigation toggle without JavaScript
-•	Designed percentage-width fluid layouts with box-sizing for cross-device compatibility
+-	Built a multi-page static website for GCC students using semantic HTML5 and float-based CSS3 layouts
+-	Implemented a CSS-only responsive mobile navigation toggle without JavaScript
+-	Designed percentage-width fluid layouts with box-sizing for cross-device compatibility
 
 ---
 
 ### Tool Hire Shop System | Java, OOP, BlueJ | 2026
 
-•	Developed a two-part shop management application in Java applying core OOP principles
-•	Implemented item cataloguing, hiring logic, and cost calculation using class hierarchies and encapsulation
-•	Built within strict academic constraints, demonstrating clean structured programming practices
+-	Developed a two-part shop management application in Java applying core OOP principles
+-	Implemented item cataloguing, hiring logic, and cost calculation using class hierarchies and encapsulation
+-	Built within strict academic constraints, demonstrating clean structured programming practices
 
 
 ---
