@@ -17,8 +17,7 @@
 I'm a **second-year Software Engineering student** at **British University of Bahrain**, passionate about building innovative mobile and web applications that solve real-world problems. 
 
 🌟 **IBM Certified Mobile App Developer** with expertise in cross-platform development  
-📱 Specialized in **React Native, Flutter, iOS/Android** development  
-💻 Full-stack developer with experience in **C#, Java, Python, JavaScript**  
+💻 Experienced in **C#, Java, Python, HTML, CSS, JavaScript**  
 🎯 **82.92% academic average** with hands-on experience across **4 major projects**  
 📜 Completed **24 industry certifications** in mobile, web, cloud, and AI technologies
 
@@ -40,7 +39,6 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Programming Languages
@@ -48,7 +46,6 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
