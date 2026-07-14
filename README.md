@@ -106,7 +106,7 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 - Mobile Development (React Native, Flutter, iOS/Android)
 - AI & Emerging Technologies (Generative AI, Python for AI)
 
-🎓 **Academic Excellence:** 82.92% Year 1 Average  
+🎓 **Academic Excellence:** 80.67% Year 2 Average  
 📚 **Relevant Coursework:** Programming, HCI, Database Systems, Computer Systems Internals & Linux
 
 ---
