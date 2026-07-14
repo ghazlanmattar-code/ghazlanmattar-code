@@ -18,7 +18,7 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 
 🌟 **IBM Certified Mobile App Developer** with expertise in cross-platform development  
 💻 Experienced in **C#, Java, Python, HTML, CSS, JavaScript**  
-🎯 **82.92% academic average** with hands-on experience across **4 major projects**  
+🎯 **80.67% academic average** with hands-on experience across **4 major projects**  
 📜 Completed **24 industry certifications** in mobile, web, cloud, and AI technologies
 
 💼 **Currently seeking software engineering internship opportunities** to apply my technical skills and contribute to innovative development teams!
@@ -32,14 +32,11 @@ I'm a **second-year Software Engineering student** at **British University of Ba
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
